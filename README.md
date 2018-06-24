@@ -18,3 +18,5 @@ Contributing is easy, simply fork the project, clone it locally, add your challe
 * `challenge-name` be creative!
 * (ONLY FOR SOLUTIONS) `-solution` quite self explanatory
 * `.js` extension
+
+Remember to add your name on `CONTRIBUTORS.md`!
