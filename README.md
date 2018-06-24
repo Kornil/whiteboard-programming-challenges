@@ -14,7 +14,7 @@ Challenges are meant to use node8.
 
 ## Contribute
 Contributing is easy, simply fork the project, clone it locally, add your challenge into the `/challenges` folder and provide a solution inside `/solutions` (can be a simple comment or more). Naming for the challenge must follow this format:
-    - `xx` being a number (just for sorting purposes)
-    - `challenge-name` be creative!
-    - (ONLY FOR SOLUTIONS) `-solution` quite self explanatory
-    - `.js` extension
+* `xx` being a number (just for sorting purposes)
+* `challenge-name` be creative!
+* (ONLY FOR SOLUTIONS) `-solution` quite self explanatory
+* `.js` extension
