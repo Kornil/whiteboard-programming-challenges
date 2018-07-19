@@ -1,7 +1,7 @@
 # Mixed JS Challenges
 
 Whiteboard test challenge prep.
-Some of the projects are not meant to be run, as the code provided abstracts some parts for increased readibility.
+Some of the projects are not meant to be run, as the code provided abstracts some parts for increased readability.
 
 Challenges are meant to use node8.
 
