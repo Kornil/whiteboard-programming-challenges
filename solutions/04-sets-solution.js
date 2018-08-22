@@ -1,4 +1,4 @@
-// first create an array with all inputed strings
+// first create an array with all inputted strings
 // split all the string in array by space
 // remove all duplicates and turn it into a single string
 // input: "bob" "alice" "john" "bob bob dan"
