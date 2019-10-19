@@ -1,9 +1,9 @@
-| Name (optional)     | @handle | challenges contributed to |
-| ------------------- | ------- | ------------------------- |
-| Francesco Agnoletto | @kornil | 01, 02, 03, 04            |
-|                     |         |                           |
-|                     |         |                           |
-|                     |         |                           |
-|                     |         |                           |
-|                     |         |                           |
-|                     |         |                           |
+| Name (optional)     | @handle | challenges contributed to    |
+| ------------------- | ------- | ---------------------------- |
+| Francesco Agnoletto | @kornil | js01, js02, js03, js04, js06 |
+|                     |         |                              |
+|                     |         |                              |
+|                     |         |                              |
+|                     |         |                              |
+|                     |         |                              |
+|                     |         |                              |
