@@ -1,0 +1,7 @@
+.list > .list-item {
+  background-color: red;
+}
+
+.list > .list-item:nth-of-type(even) {
+  background-color: blue;
+}
