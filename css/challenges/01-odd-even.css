@@ -1,0 +1,13 @@
+// <div class="list">
+//  <div class="list-item">hello</div>
+//  <div class="list-item">hello</div>
+//  <div class="list-item">hello</div>
+//  <div class="list-item">hello</div>
+//  <div class="list-item">hello</div>
+// </div>
+//
+// make all even "list-item" background-color: blue
+
+.list > .list-item {
+  background-color: red;
+}
