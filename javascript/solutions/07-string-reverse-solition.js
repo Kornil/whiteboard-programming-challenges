@@ -13,5 +13,4 @@ const reverseString = str => {
   for (i; i > -1; i--) {
     reversed += str[i]; // Add the characters to the string. str[i] starts at the last character, so reversed ends up with a reversed string.
   }
-  console.log(reversed);
 };
