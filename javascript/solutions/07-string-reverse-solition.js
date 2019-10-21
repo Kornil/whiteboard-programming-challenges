@@ -8,9 +8,9 @@ const revertString = (str) => str.split("").reverse().join("");
 const reverseString = str => {
   
   let reversed = "";
-  let i = str.length - 1; // Do this work here so the for loop won't recalculate it on every iteration.
+  let i = str.length - 1; // Remove from the for loop for efficiency.
 
   for (i; i > -1; i--) {
-    reversed += str[i]; // Add the characters to the string. str[i] starts at the last character, so reversed ends up with a reversed string.
+    reversed += str[i]; // concat chars to the reversed string. str[i] starts at the last character, so the output is a reversed string.
   }
 };
